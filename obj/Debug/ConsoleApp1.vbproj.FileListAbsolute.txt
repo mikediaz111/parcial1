@@ -1,0 +1,11 @@
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\mdiaz\Downloads\UNICAES\progra-objetos\parcial1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
